@@ -1,2 +1,3 @@
-# Rag-Basic
-Implement the basic RAG 
+# Rag Basic
+
+Implement the basic RAG (Retrieval-Augmented Generation).
