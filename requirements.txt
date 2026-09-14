@@ -1,0 +1,12 @@
+langchain
+langchain-anthropic
+langchain-community
+chromadb
+anthropic
+python-dotenv
+jupyter
+pandas
+numpy
+sentence-transformers
+ollama
+pydantic
